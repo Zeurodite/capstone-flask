@@ -17,7 +17,7 @@ capstone_flask/
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/capstone_flask.git
+[git clone https://github.com/tu_usuario/capstone_flask.git](https://github.com/Zeurodite/capstone-flask.git)
 cd capstone_flask
 ```
 
