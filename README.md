@@ -92,14 +92,6 @@ El archivo `diagrama_arquitectura.png` representa la arquitectura básica del si
 - Base de Datos
 - Flujo de comunicación (REST API)
 
-## 📤 Entrega
-
-Este repositorio debe subirse a GitHub como parte de la entrega de la actividad. Asegúrate de incluir:
-
-- Código fuente (`app.py`)
-- Archivo `test.http`
-- Diagrama en formato imagen (`.png`, `.jpg`, etc.)
-- Este archivo `README.md`
 
 ✍️ _Autor: Arodriguez 
 📅 _Fecha: Abril 2025_
